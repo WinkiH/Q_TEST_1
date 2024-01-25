@@ -1,0 +1,28 @@
+project:
+  output-dir: docs
+  type: book
+
+book:
+  title: "CASA0023 Learning Diary"
+  author: "Wing Ka Ho"
+  date: "1/22/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Week2.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html: 
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  docx:
+    reference-doc: custom-reference-doc.docx
+  
+
+editor: visual
+

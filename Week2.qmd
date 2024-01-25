@@ -1,0 +1,16 @@
+---
+title: "Week2"
+output: 
+  html_document: default 
+---
+# Week 2
+
+## Portfolio making with xaringan and quarto
+
+This week we have learnt to create our online portfolio using Quarto Book and presentation slides using Xaringan. 
+```{r echo = FALSE, out.width='40%'}
+xaringanExtra::embed_xaringan(
+  url = "https://github.com/WinkiH/CASA0023_test/blob/main/ICESat2.Rmd",
+  ratio = "16:9")
+
+```
