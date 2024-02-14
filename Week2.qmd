@@ -1,9 +1,3 @@
----
-title: "Week 2"
-output: 
-  html_document: default 
----
-
 # Week 2
 
 ## Portfolio making with xaringan and quarto
