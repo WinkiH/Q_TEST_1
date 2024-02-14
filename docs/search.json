@@ -37,15 +37,43 @@
   {
     "objectID": "Week2.html",
     "href": "Week2.html",
-    "title": "3  Week2",
+    "title": "3  Week 2",
     "section": "",
     "text": "4 Week 2"
   },
   {
     "objectID": "Week2.html#portfolio-making-with-xaringan-and-quarto",
     "href": "Week2.html#portfolio-making-with-xaringan-and-quarto",
-    "title": "3  Week2",
-    "section": "4.1 Portfolio making with xaringan and quarto",
-    "text": "4.1 Portfolio making with xaringan and quarto\nThis week we have learnt to create our online portfolio using Quarto Book and presentation slides using Xaringan."
+    "title": "3  Week 2",
+    "section": "3.1 Portfolio making with xaringan and quarto",
+    "text": "3.1 Portfolio making with xaringan and quarto\nThis week we have learnt to create our online portfolio using Quarto Book and presentation slides using Xaringan. Below please find my presentation ^^"
+  },
+  {
+    "objectID": "Week4.html",
+    "href": "Week4.html",
+    "title": "4  Week 4",
+    "section": "",
+    "text": "5 Policy – The Bihar Kosi Recovery Project"
+  },
+  {
+    "objectID": "Week4.html#summary",
+    "href": "Week4.html#summary",
+    "title": "4  Week 4",
+    "section": "5.1 Summary",
+    "text": "5.1 Summary\nKosi River is a trans-boundary river – upper steam flowing along Nepal all the way down to lower course in the Bihar region in India (ref). It subjected to repeated flooding, especially during the Summer Monsoon season from June to September. The most notable and disastrous flood was in 2008 – as known as the 2008 Kosi Flooding. The 2008 Kosi Flooding was originated from the breach of upstream embankment, channel discharge then rapidly displaced to downstream of Kosi, in the North Bihar regions (Ref). 6 districts in the North Bihar was inundated; 5.5 million people became homeless; more than 2500 km2 of cultivated land was submerged; economic loss of US$18.7 million was also reported (ref). Since then, the Indian government started the Bihar Kosi Flood Recovery Project to revitalise the Northern Bihar and enhance its flood resilience capacity.\n\n\n\nLANDSAT image showing the abandoned paleochannel that are marked by their avulsion year and the flooded areas during the 2008 Kosi Flood (shaded in red). A continuous avulsion of Kosi to the west to its current location is observed since 1760 the earliest.\n\n\nIt is important to note that Kosi River is a dynamic river as it has shifted westward for at least 113 m to the current location due to active tectonic movements (ref). Its dynamic nature created numerous abandoned channel that increases the risks of flooding to surrounding area, by providing more flood water outlets through the abandoned paleochannels (ref). Therefore, it is equally important to understand its physical settings while progressing on socio-economic reconstructions.\nThe project objectives of the “Environment and Social Management Framework” are listed as follow:\n\nReconstruction of houses that are earthquake and flood resistant\nEnhancing connectivity by building and repairing roads and bridges\nStrengthening flood management capacity in Kosi Basin\nBuilding social and financial capital by expanding livelihoods opportunities"
+  },
+  {
+    "objectID": "Week4.html#application",
+    "href": "Week4.html#application",
+    "title": "4  Week 4",
+    "section": "5.2 Application",
+    "text": "5.2 Application\nThis project did not outline the use of remote sensing techniques in post-disaster reconstruction and flood management; therefore, I am going to suggest the application of MODIS (Moderate Resolution Imaging Spectroradiometer) to enhance the precision and efficiency for post-disaster reconstructions and disaster risks reductions (EarthData, 2024). This suggestion is inspred by Arvind et al., 2016, where they proposed the use of satellite images from different months to identify and predict the flood extents for the next possible flood occurrence. They successfully applied to one of the flood events in 2009 in southern part of India (across various local regions), to identify the extent of flooded and non-flooded areas through remote sensing (Arvind et al., 2016). MODIS can monitor changes in biosphere – land cover; atmosphere – cloud cover (potential rainfall); hydrosphere – water level/ extent of water body; cryosphere – extent of snow cover (MODIS, 2024). In addition to the transboundary nature of Kosi River, Bihar is located at the lower course of glacier outlets in the Himalayas, where meltwater flow along Kosi River down to Bihar. Therefore, MODIS would be undoubtedly beneficial for the recovery project. It is to:\n\nIdentify vulnerable houses that are exposed to flood hazards (close to riverbank)\nIdentify collapsed infrastructure(s)\nMonitor water level especially in the upper course in Nepal (to avoid rapid displacement of flood water due to a sudden increase of channel discharge)\nIdentify non-flooded cultivated land/ newly built fertile soil (by flood sediments) for agricultural activities\n\n\n\n\nSatellite image (top) and processed image (bottom) from MODIS showing the extent of flooding half month later flood occurrence in mid August.\n\n\nHowever, some also suggested the use of Sentinel-2 data as an alternative for flood detection and management due to its high resolution and the availability of Synthetic Aperture Radar (SAR) sensors on board (Caballero et al., 2019; Tarpanelli et al., 2022). Although Sentinel-2 provides a higher resolution of 10 m, its revisit time required is longer than MODIS. The temporal resolution of MODIS is higher than Sentinel-2 at 2 to 3 days while having a spatial resolution of 250 m to 1000 m (EarthData, 2024). In Bihar region, where it suffers from heavy summer monsoon rainfall at a temporal scale at daily and weekly, it is necessary to monitor water levels and flood extent at a smaller temporal interval (Ahamed and Bolten, 2017). The smaller the temporal resolution, the better the flood detection and monitoring."
+  },
+  {
+    "objectID": "Week4.html#reflection",
+    "href": "Week4.html#reflection",
+    "title": "4  Week 4",
+    "section": "5.3 Reflection",
+    "text": "5.3 Reflection\nTo be continued…"
   }
 ]
