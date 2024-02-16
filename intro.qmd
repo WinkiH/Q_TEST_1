@@ -1,7 +1,37 @@
-# Week 1
+# Week 1 
 
-## An introduction to remote sensing
+# An introduction to remote sensing
 
-## Active VS passive sensors
+## Summary
+Remote sensing is a form or a process of data collection over the earth body, which include but not limited to: 
 
-## Electromagnetic waves
+1.	Biosphere (living organisms/ forms)
+2.	Hydrosphere (terrestrial, oceanic, supra- or subglacial water body)
+3.	Cryosphere (ice sheets, glaciers, sea ice, ice bergs)
+4.	Atmosphere (clouds, aerosols)
+5.	Lithosphere (soil)
+
+Remote sensing is usually achieved using remote sensors that are on board with the satellites or aircrafts. It is also a form of cloud computing data source that requires certain computational technologies to complete remote sensing. The most well-known service provider is the National Aeronautics and Space Administration (NASA), providing numerous open-source database for easy public assess (Earth Information Centre, 2024). Remote sensing has paved the way to monitor changes in remote areas e.g., deforestation in Amazon Forest (ref) and changes in relation to climate warming (ref). 
+
+### Active VS passive sensors
+Remote sensing mainly adopt two different types of sensors on board each of the satellite or aircrafts – active and/ or passive. Active sensor actively emit energy, electromagnetic waves, to the ground or targeted surfaces. It then detects any changes in the returning signal (e.g., wavelength) and calculate the returning time for the approximate distance between the two. Passive sensor does not emit energy, it detects the reflected energy (also electromagnetic waves) from the illuminating source – the Sun. 
+
+### Electromagnetic waves
+???
+
+### Resolutions
+Resolutions tell the primary information about the satellite imagery, they can vary across different products and service providers. Understanding the resolutions is the most fundamental requirement for spatial analysts/ data users as the resolutions could significantly impact the accuracy and precision of the result. Resolutions can be divided into 4 types:
+
+**1. Spatial:** It measures the size of a single grid/ pixel in the unit of cm/m/km squared. The higher the spatial resolution, the more detail of the features can be revealed.
+
+**2. Temporal:** It measures the revisiting time of the sensors (satellite) in the unit of day, week, month, year. The higher the temporal resolution, the more frequent the revisiting time.
+
+**3. Spectral:** It reveals the number of bands a sensor can observe. The higher the spectral resolution, the higher number of bands can be detected (objects with more wavelengths can be detected as well).
+
+**4. Radiometric:** It reveals the ability of a sensor to accurately perceive and store signal, it is told by the number of bit. The higher the radiometric resolution, the higher the information/ colours it can perceive and store.
+
+## Applications
+With the rapid development of technologies and the availability of open-source data, remote sensing has been widely applied across sectors: environmental protections/ conversations, disaster risks reductions, humanitarian protections (?) etc.
+
+
+## Reflections
