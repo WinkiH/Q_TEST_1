@@ -22,9 +22,11 @@ Remote sensing mainly adopt two different types of sensors on board each of the 
 
 ![Graph illustration showing the operation of passive sensor. Source: GISGeography (2023)](images/passive-satellite.png)
 
-### Electromagnetic waves
+#### Electromagnetic waves
 
-???
+Electromagnetic waves are the ways of energy being transported/ traveled around, like ocean waves, but electromagnetic waves do not require any medium for movement (they can even transported through a vacuumed space). Electromagnetic waves change according to the objects that they have encountered that creates a unique electromagnetic signatures -- wavelengths for measurements. Electromagnetic waves are measured according to their wavelength -- the distance between the crests (highest point of the cycle), while units of measurement vary from nano-meters to meters. As different materials reflect different values of electromagnetic waves, sensors then measured the changes/ types of electromagnetic wave to determine the properties of the remotely sensed material.
+
+![Reflected wavelengths of physical material of the Earth within the visible light spectrum.](images/spectralfingerprints.jpg)
 
 ### Resolutions
 
@@ -55,6 +57,7 @@ It is important to correct all possible noises e.g., local VLM brought by ground
 ![Observed regional absolute sea-level change using satellite altimetry data with corrections.](images/rspa20220049f09.jpg)
 
 ## Reflections
-I quite enjoyed the lecture as the content is quite fascinating. As a geographer, I usually used remote sensing dating such as satellite imagery or altimeter measurement data sets, to reconstruct the past observations or project the future changes but not knowing how remote sensing works. Learning the function and theory of how remote sensing work during the lecture provides me with insight on how to choose a more suitable remote sensing data sets for my (future) research based on the characteristics of the satellites and resolutions of the data sets. 
 
-I found the practical work is pretty cool that I was able to identify the relative proportion of land cover in different cities (yes I have done two of them) and compare against them through plotting the graph up in R. And for SNAP, it is a BRAND NEW tool to me and there is no doubt that I encountered quite a nunber of troubles while using it. However, I still find SNAP is an interesting tool that it allows the examination of satellite imagery in a very detail ways. The functions that it has got really surprised me although it is way more completed than using QGIS and ArcGIS. 
+I quite enjoyed the lecture as the content is quite fascinating. As a geographer, I usually used remote sensing dating such as satellite imagery or altimeter measurement data sets, to reconstruct the past observations or project the future changes but not knowing how remote sensing works. Learning the function and theory of how remote sensing work during the lecture provides me with insight on how to choose a more suitable remote sensing data sets for my (future) research based on the characteristics of the satellites and resolutions of the data sets.
+
+I found the practical work is pretty cool that I was able to identify the relative proportion of land cover in different cities (yes I have done two of them) and compare against them through plotting the graph up in R. And for SNAP, it is a BRAND NEW tool to me and there is no doubt that I encountered quite a number of troubles while using it. However, I still find SNAP is an interesting tool that it allows the examination of satellite imagery in a very detail ways. The functions that it has got really surprised me although it is way more completed than using QGIS and ArcGIS.
