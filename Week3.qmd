@@ -1,1 +1,13 @@
 # Week 3
+
+# Corrections and enhancement
+
+## Summary
+Remote sensing often requires corrections or sometimes requires enhancement to overcome the flaws of the original image because of...
+Ratio
+Texture
+PCA
+
+## Applications
+
+## Reflections
