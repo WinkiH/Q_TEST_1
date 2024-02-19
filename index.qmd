@@ -1,16 +1,18 @@
 # About me
 
-### Who am I?
+## Who?
 
 Hello! This is Winki currently doing MSc Urban Spatial Science at CASA UCL. This is my fourth year spending in the UK but the first year in London!
 
 [![This is me spending time in Iceland during the field trip back in my bachelor degree :). Behind me is Jökulsárlón-Glacier lagoon with numerous floating icebergs that detached from various glacier outlets around the lagoon.](images/iceland.png)](pics-of-me)
 
-I studied BSc Geography at Durham University then straight to this masters degree after my graduation in 2023. I love travelling around the world and exploring the nature :). Oh yes! I am from Hong Kong, a densely populated city (phew). But I am more drawn to some quiet and tranquil places like the Isle of Skye or the other parts of Scotland!
+Before I came to CASA as a Data Scientist (self-proclaimed), I am a physical geographer who is always amazed by the physical landscape. I love travelling around the world and exploring the nature :). The most impressive trip is the field trip to Iceland (pics above), it was the first time for me to walk over glaciers and fool around glacial features e.g., walk and climb over moraines, visiting gigantic glacial erosion features. Although glacial environment is not my favourite topic, I still find it fascinating. My interests are looking at climate-related hazards and sea-level change. Oh yes! I am from Hong Kong, a densely populated city (phew). But I am more drawn to some quiet and tranquil places like the Isle of Skye or the other parts of Scotland!
 
-### Fun facts about me
+## What? Fun facts about me
 
 -   I love scrolling through Google Map/ Google Earth (This gives me some travelling vibe!)
+
+-   I am sooooooo into sea-level change that I can spend an hour or more to explain the theories behind. 
 
 -   I prefer taking buses rather than tube (except DLR) as I could see the view outside
 
